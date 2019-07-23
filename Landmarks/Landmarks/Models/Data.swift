@@ -1,10 +1,9 @@
-//
-//  Data.swift
-//  Landmarks
-//
-//  Created by Jeffry Sandoval on 7/22/19.
-//  Copyright © 2019 Jeffry Sandoval. All rights reserved.
-//
+/*
+ See LICENSE folder for this sample’s licensing information.
+ 
+ Abstract:
+ Helpers for loading images and data.
+ */
 
 import UIKit
 import SwiftUI
@@ -91,4 +90,5 @@ final class ImageStore {
         }
     }
 }
+
 
