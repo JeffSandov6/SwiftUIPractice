@@ -32,6 +32,7 @@
 		6B4418E022E68A320049BD90 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4418DF22E68A320049BD90 /* Data.swift */; };
 		6B4418E922E68C3F0049BD90 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4418E722E68C3F0049BD90 /* MapView.swift */; };
 		6B4418EA22E68C3F0049BD90 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4418E822E68C3F0049BD90 /* CircleImage.swift */; };
+		6B4418EE22E68D810049BD90 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4418ED22E68D810049BD90 /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		6B4418DF22E68A320049BD90 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Data.swift; path = ../../../../../../../System/Volumes/Data/Users/jeffsando/Desktop/SwiftUIPractice/Landmarks/Landmarks/Models/Data.swift; sourceTree = "<group>"; };
 		6B4418E722E68C3F0049BD90 /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		6B4418E822E68C3F0049BD90 /* CircleImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		6B4418ED22E68D810049BD90 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LandmarkRow.swift; path = "../../../../../../../System/Volumes/Data/Users/jeffsando/Desktop/SwiftUIPractice/Landmarks/Landmarks/Supporting Views/LandmarkRow.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 			children = (
 				6B4418E722E68C3F0049BD90 /* MapView.swift */,
 				6B4418E822E68C3F0049BD90 /* CircleImage.swift */,
+				6B4418ED22E68D810049BD90 /* LandmarkRow.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -361,6 +364,7 @@
 				6B2BE21122E64ED30089504E /* LandmarkDetail.swift in Sources */,
 				6B4418E922E68C3F0049BD90 /* MapView.swift in Sources */,
 				6B4418A822E685050049BD90 /* Landmark.swift in Sources */,
+				6B4418EE22E68D810049BD90 /* LandmarkRow.swift in Sources */,
 				6B4418EA22E68C3F0049BD90 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
